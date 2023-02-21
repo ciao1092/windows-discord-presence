@@ -354,6 +354,7 @@ namespace windows_discord_presence
                 apptitle = apptitle.Replace("PhotosApp", "Windows Photos");
                 apptitle = apptitle.Replace("Video.UI", "Movies & TV");
                 apptitle = apptitle.Replace("WinStore.App", "Microsoft Store");
+                apptitle = apptitle.Replace("SnippingTool.exe", "Snipping Tool");
 
 
                 apptitle = apptitle.Replace("Microsoft", "MS");
