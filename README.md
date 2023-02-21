@@ -1,4 +1,4 @@
-# windows-discord-presence
+# Windows Discord Presence
 
 Simple program that displays a Rich Presence on Discord based on the current foreground window.
 
